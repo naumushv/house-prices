@@ -3,6 +3,9 @@
 With 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, this 
 competition challenges the data science community to predict the final price of each home.
 
+![](housesbanner.png)
+
+
 ### Data
 train.csv: 1460 houses with 81 attributes, including the labels (sale prices)<br>
 test.csv: 1459 houses with 80 attributes<br>
