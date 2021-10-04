@@ -1,7 +1,7 @@
 # House Prices: Advanced Regression Techniques
 
 With 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, this 
-competition challenges the data science community to predict the final price of each home.
+competition challenges the data science community to predict the final price of each home.\
 [My notebook on kaggle](https://www.kaggle.com/vasiliispe/house-pricing)
 
 ![](housesbanner.png)
